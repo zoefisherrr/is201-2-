@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    
+}
+body{
+    text-align: center;
+    font-size: medium;
+}
+ul{
+    text-align: center;
+}
+Body{
+    h1{
+        font-size: 300%;
+        background-color:rgb(186, 232, 254)      
+    }
+    ul{
+        text-align: center;
+        font-size: xx-large;
+        text-decoration: underline;
+
+    }
+    background-color:rgb(215, 238, 247) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    h2{
+        font-size: xx-large;
+        text-decoration: underline;
+    }
+    p{
+        font-style: italic;
+    }
+    div{
+        text-align: center;
+    }
+        
+}

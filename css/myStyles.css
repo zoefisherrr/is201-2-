@@ -1,0 +1,25 @@
+ body{
+    background-color: rgb(219, 215, 215);
+    h1{
+        text-align: center;
+        font-size: xx-large;
+        font-weight: bolder;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    h2{
+        text-align: center;
+        font-size: large;
+        background-color: white;
+    }
+    p{
+        text-align: center;
+        font-style: italic;
+        background-color: white;
+    }
+    h3{
+        text-decoration: underline;
+    }
+    h6{
+        color: rgb(0, 56, 167);
+    }
+ }
